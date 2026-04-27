@@ -263,10 +263,10 @@ Several improvements can further enhance the system:
 
 ## Author
 
-**Shashwat Kulshrestha**
+**Arjav Jain**
 
 B.Tech – Information Technology  
-Aspiring Artificial Intelligence / Machine Learning Engineer
+Aspiring CyberSecurity Analyst / Artificial Intelligence / Machine Learning Engineer
 
 ---
 
